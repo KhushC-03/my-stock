@@ -106,112 +106,112 @@ def currentStock():
 
         <div class='main-div'>
             <div class='back-box'>
-                <img alt="Panda dunk low" src="Photos/pandadunklow.png"width="200" height="150">
+                <img alt="Panda dunk low" src="/Photos/pandadunklow.png"width="200" height="150">
                 <div class="caption">Dunk Low Black White</div>
             </div>
 
             <div class='back-box'>
-                <img alt="Panda dunk low gs" src="Photos/pandadunklowgs.png"width="200" height="150">
+                <img alt="Panda dunk low gs" src="/Photos/pandadunklowgs.png"width="200" height="150">
                 <div class="caption">Dunk Low Black White (GS)</div>
             </div>
 
             <div class='back-box'>
-            <img alt="Unc dunk mens" src="Photos/dunklowunc.png"width="200" height="150">
+            <img alt="Unc dunk mens" src="/Photos/dunklowunc.png"width="200" height="150">
             <div class="caption">Dunk Low UNC Men</div>
             </div>
 
             <div class='back-box'>
-                <img alt="Spartan dunk mens" src="Photos/dunklowspartan.png"width="200" height="150">
+                <img alt="Spartan dunk mens" src="/Photos/dunklowspartan.png"width="200" height="150">
                 <div class="caption">Dunk Low Spartan Men</div>
             </div>
 
             <div class='back-box'>
-            <img alt="Sb dunk low fog mens" src="Photos/sbdunkfog.png"width="200" height="150">
+            <img alt="Sb dunk low fog mens" src="/Photos/sbdunkfog.png"width="200" height="150">
             <div class="caption">SB Dunk Low FOG Men</div>
             </div>
 
             <div class='back-box'>
-                <img alt="Grey green mid" src="Photos/jordan1midgreengrey.png"width="190" height="150">
+                <img alt="Grey green mid" src="/Photos/jordan1midgreengrey.png"width="190" height="150">
                 <div class="caption">Jordan 1 Mid Grey Green</div>
             </div>
 
             <div class='back-box'>
-                <img alt="curdory mid" src="Photos/jordan1midcurdory.png"width="200" height="150">
+                <img alt="curdory mid" src="/Photos/jordan1midcurdory.png"width="200" height="150">
                 <div class="caption">Jordan 1 Mid Curdory</div>
             </div>
 
             <div class='back-box'>
-                <img alt="Smoke grey mid" src="Photos/jordan1midsmokegrey.png"width="210" height="150">
+                <img alt="Smoke grey mid" src="/Photos/jordan1midsmokegrey.png"width="210" height="150">
                 <div class="caption">Jordan 1 Mid Smoke Grey</div>
             </div>
 
             <div class='back-box'>
-                <img alt="Teal mid gs" src="Photos/jordan1midtealgs.png"width="220" height="150">
+                <img alt="Teal mid gs" src="/Photos/jordan1midtealgs.png"width="220" height="150">
                 <div class="caption">Jordan 1 Mid Teal (GS)</div>
             </div>
 
             <div class='back-box'>
-            <img alt="Gym red mid gs" src="Photos/jordan1midgymgreygs.png"width="180" height="130">   
+            <img alt="Gym red mid gs" src="/Photos/jordan1midgymgreygs.png"width="180" height="130">   
             <div class="caption">Jordan 1 Mid Gym Red (GS)</div>
             </div>
 
             <div class='back-box'>
-            <img alt="Royal mid gs" src="Photos/jordan1royalwhitegs.png"width="200" height="150" >
+            <img alt="Royal mid gs" src="/Photos/jordan1royalwhitegs.png"width="200" height="150" >
             <div class="caption">Jordan 1 Mid Royal (GS)</div>
             </div>
 
             <div class='back-box'>
-            <img alt="coral mid gs" src="Photos/jordan1midcoralgs.png"width="200" height="150">
+            <img alt="coral mid gs" src="/Photos/jordan1midcoralgs.png"width="200" height="150">
             <div class="caption">Jordan 1 Coral (GS)</div>
             </div>
 
             <div class='back-box'>
-            <img alt="Unc Low" src="Photos/jordan1lowunc.png"width="200" height="150">
+            <img alt="Unc Low" src="/Photos/jordan1lowunc.png"width="200" height="150">
             <div class="caption">Jordan 1 Unc Low</div>
             </div>
 
             <div class='back-box'>
-            <img alt="Wolf grey low" src="Photos/jordan1lowwolfgrey.png"width="200" height="150">
+            <img alt="Wolf grey low" src="/Photos/jordan1lowwolfgrey.png"width="200" height="150">
             <div class="caption">Jordan 1 Wolf Grey Low</div>
             </div>
 
             <div class='back-box'>
-            <img alt="jordan 11 cool grey mens" src="Photos/jordan11coolgrey.png"width="200" height="150">
+            <img alt="jordan 11 cool grey mens" src="/Photos/jordan11coolgrey.png"width="200" height="150">
             <div class="caption">Jordan 11 Cool Grey Mens</div>
             </div>
 
             <div class='back-box'>
-            <img alt="jordan 4 shimmer" src="Photos/jordan4shimmer.png"width="200" height="150">
+            <img alt="jordan 4 shimmer" src="/Photos/jordan4shimmer.png"width="200" height="150">
             <div class="caption">Jordan 4 Shimmer Womens</div>  
             </div>
         
             <div class='back-box'>
-            <img alt="jordan 4 oreo" src="Photos/jordan4oreo.png"width="200" height="150">
+            <img alt="jordan 4 oreo" src="/Photos/jordan4oreo.png"width="200" height="150">
             <div class="caption">Jordan 4 Oreo Mens</div>  
             </div>
         
             <div class='back-box'>
-            <img alt="jordan 4 lightning" src="Photos/jordan4lightning.png"width="200" height="150">
+            <img alt="jordan 4 lightning" src="/Photos/jordan4lightning.png"width="200" height="150">
             <div class="caption">Jordan 4 Lightning Mens</div>  
             </div>
 
             <div class='back-box'>
-            <img alt="yeezy slide pure" src="Photos/yzslidepure.png"width="200" height="150">
+            <img alt="yeezy slide pure" src="/Photos/yzslidepure.png"width="200" height="150">
             <div class="caption">Yeezy Slide Pure</div>    
             </div>
 
             <div class='back-box'>
-            <img alt="yeezy slide ochre" src="Photos/yzyslideochre.png"width="200" height="150">
+            <img alt="yeezy slide ochre" src="/Photos/yzyslideochre.png"width="200" height="150">
             <div class="caption">Yeezy Slide Ochre</div>   
             </div>
         
             <div class='back-box'>
-            <img alt="yeezy foam runner" src="Photos/yzyfoamochre.png"width="200" height="150">
+            <img alt="yeezy foam runner" src="/Photos/yzyfoamochre.png"width="200" height="150">
             <div class="caption">Yeezy Foam Runner Ochre</div>   
             </div>
 
             <div class='back-box'>
-            <img alt="new balance 550 white grey" src="Photos/nb550whitegrey.png"width="200" height="130">
+            <img alt="new balance 550 white grey" src="/Photos/nb550whitegrey.png"width="200" height="130">
             <div class="caption">New Balance 550 White Grey</div>   
             </div>
         </div>
