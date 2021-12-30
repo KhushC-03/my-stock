@@ -217,7 +217,7 @@ def currentStock():
 </div>
    
     """
-    return render_template_string(html.replace('/Photos/','https://raw.githubusercontent.com/KhushC-03/my-stock/main/Photos/'))
+    return render_template_string(html.replace('Photos/','https://raw.githubusercontent.com/KhushC-03/my-stock/main/Photos/'))
 
 if __name__ == "__main__":
     app.run()
