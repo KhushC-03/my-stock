@@ -211,7 +211,7 @@ def currentStock():
     </div>
 
     <div class='back-box'>
-      <img alt="new balance 550 white grey" src="Photos/nb550whitegrey.png"width="200" height="130">
+      <img alt="new balance 550 white grey" src="Photos/nb550whitegrey.png"width="200" height="150">
       <div class="caption">New Balance 550 White Grey</div>   
     </div>
 </div>
