@@ -134,6 +134,7 @@ def currentStock():
     border:none;
     border-radius: 5px;
     font-size: 1em;
+    -webkit-appearance: none;
   }
   @media only screen and (max-width: 775px) {
     .full-view{
@@ -210,6 +211,7 @@ def currentStock():
       border:none;
       border-radius: 5px;
       font-size: 1em;
+      -webkit-appearance: none;
     }
  
   }
